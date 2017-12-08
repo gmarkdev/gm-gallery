@@ -1,0 +1,134 @@
+div#gm-gallery {
+    padding: 10px;
+    text-align: center;
+}
+
+div#gm-gallery > img {
+    display: inline-block;
+    margin: 2px;
+    padding: 0px;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+div#gm-gallery > img:hover {
+    opacity: .8;
+}
+
+.iconSizeSmall {
+    max-width: 10%;
+    max-height: 10%;
+}
+
+.iconSizeMedium {
+   max-width: 20%;
+   max-height: 20%;
+}
+
+.iconSizeLarge {
+   max-width: 30%;
+   max-height: 30%;
+}
+
+div#gm-gallery-bg
+
+div#gm-parent {
+    display: none;
+}
+
+div#gm-gallery-bg, div#gm-parent {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+}
+
+.dark {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.light {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+div#gm-gallery-bg > div {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+div#gm-gallery-bg > div > div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div#gm-gallery-bg > div > div > img {
+    display: block;
+    margin: auto;
+    max-height: 75%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.openSizeSmall {
+    max-width: 30%;
+}
+
+.openSizeMedium {
+    max-width: 50%;
+}
+
+.openSizeLarge {
+    max-width: 80%;
+}
+
+div#next, div#prev {
+    display: table;
+    height: 100%;
+    width: 10%;
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+    z-index: 1000;
+    transition: all .3s;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+div#next {
+    right: 0;
+}
+
+div#prev {
+    left: 0;
+}
+
+div#next > div, div#prev > div {
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div#next:hover, div#prev:hover {
+    opacity: .6;
+}
+
+.light-arrows {
+    color: #EEE;
+}
+
+.dark-arrows {
+    color: #000;
+}
