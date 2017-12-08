@@ -9,7 +9,7 @@
   </div>
 ```
 
-##### with parameter "gm-arrows". You can set "true" or "false" it's means visibility of arrows to next/prev image.
+##### with parameter "gm-arrows". You can set "true" or "false" it means visibility of arrows to next/prev image.
 
 ##### Next put image in gallery div. 
 ##### Such as:
