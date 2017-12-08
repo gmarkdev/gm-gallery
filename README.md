@@ -18,14 +18,14 @@
 ##### in head tag:
 
 ```html
-<link rel="stylesheet" type="text/css" href="css/gm-gallery.css">
-<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/gm-gallery.css">
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 ```
 
 ##### and before end of body tag  - ```</body>```
 
 ```html
-<script type="text/javascript" src="js/gm-gallery.js"></script>
+	<script type="text/javascript" src="js/gm-gallery.js"></script>
 ```
 
 Then create div:
