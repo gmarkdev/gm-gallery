@@ -1,8 +1,9 @@
 # gm-gallery
 ##### It's simple html and javascript gallery
 
-
-	<img src="https://i.imgur.com/B4l1wdp.png" align="center">
+<p align="center">
+	<img src="https://i.imgur.com/B4l1wdp.png">
+</p>
 
 
 <p align="center">
