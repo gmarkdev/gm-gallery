@@ -14,11 +14,11 @@
 ##### Next put image in gallery div. 
 ##### Such as:
 
-  <pre>
+```html
   <div id="gm-gallery" gm-arrows="true">
     <img class="img-medium" gm-icon-size="small" gm-open-size="medium" gm-bg="dark" src="img/picture2.jpg">
   </div>
-  </pre>
+```
   
 ## Tag "img" have 3 another parameters:
 
