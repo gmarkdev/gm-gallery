@@ -22,7 +22,7 @@
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 ```
 
-##### and before end of body tag  - ```html</body>```
+##### and before end of body tag  - ```html </body>```
 
 ```html
 <script type="text/javascript" src="js/gm-gallery.js"></script>
