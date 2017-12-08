@@ -23,8 +23,6 @@ div#gm-gallery > img:hover {
 }
 
 .iconSizeMedium {
-   width: 20%;
-   height: 20%;
    max-width: 20%;
    max-height: 20%;
 }
