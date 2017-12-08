@@ -16,8 +16,6 @@ div#gm-gallery > img:hover {
 }
 
 .iconSizeSmall {
-    width: 10%;
-    height: 10%;
     max-width: 10%;
     max-height: 10%;
 }
@@ -28,8 +26,6 @@ div#gm-gallery > img:hover {
 }
 
 .iconSizeLarge {
-   width: 30%;
-   height: 30%;
    max-width: 30%;
    max-height: 30%;
 }
