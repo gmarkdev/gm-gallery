@@ -5,15 +5,13 @@
 	<img src="https://i.imgur.com/B4l1wdp.png">
 </p>
 
-
 <p align="center">
-![alt text](https://i.imgur.com/nsqsk91.png)
+	<img src="https://i.imgur.com/nsqsk91.png">
 </p>
 
 <p align="center">
-![alt text](https://i.imgur.com/2JON9XR.png)
+	<img src="https://i.imgur.com/2JON9XR.png">
 </p>
-
 
 #### Firstly you have to create div:
 
