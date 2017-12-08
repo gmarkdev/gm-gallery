@@ -16,16 +16,22 @@ div#gm-gallery > img:hover {
 }
 
 .iconSizeSmall {
+    width: 10%;
+    height: 10%;
     max-width: 10%;
     max-height: 10%;
 }
 
 .iconSizeMedium {
+   width: 20%;
+   height: 20%;
    max-width: 20%;
    max-height: 20%;
 }
 
 .iconSizeLarge {
+   width: 30%;
+   height: 30%;
    max-width: 30%;
    max-height: 30%;
 }
