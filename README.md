@@ -3,11 +3,11 @@
 
 #### Firstly you have to create div:
 
-  <pre>
+{::nomarkdown}
   <div id="gm-gallery" gm-arrows="true">
   
   </div>
-  </pre>
+{:/}
 
 ##### with parameter "gm-arrows". You can set "true" or "false" it's means visibility of arrows to next/prev image.
 
