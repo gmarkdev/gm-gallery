@@ -30,20 +30,25 @@
 
 ### gm-icon-size:
 
-##### gm-icon-size="small"
-##### gm-icon-size="medium"
-##### gm-icon-size="large"
-##### or in percentages gm-icon-size="40%"
+```html
+gm-icon-size="small"
+gm-icon-size="medium"
+gm-icon-size="large"
+or in percentages gm-icon-size="40%"
+```
 
 ### gm-open-size:
 
-##### gm-open-size="small"
-##### gm-open-size="medium"
-##### gm-open-size="large"
-##### or in percentages gm-open-size="40%"
+```html
+gm-open-size="small"
+gm-open-size="medium"
+gm-open-size="large"
+or in percentages gm-open-size="40%"
+```
 
 ### gm-bg
-
-##### gm-bg="dark"
-##### gm-bg="light"
+```html
+gm-bg="dark"
+gm-bg="light"
+```
 
