@@ -1,6 +1,13 @@
 # gm-gallery
 ##### It's simple html and javascript gallery
 
+![alt text](https://i.imgur.com/B4l1wdp.png)
+
+![alt text](https://i.imgur.com/nsqsk91.png)
+
+![alt text](https://i.imgur.com/2JON9XR.png)
+
+
 #### Firstly you have to create div:
 
 ```html
