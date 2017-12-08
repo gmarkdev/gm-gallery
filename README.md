@@ -16,8 +16,11 @@
 
 ```html
   <div id="gm-gallery" gm-arrows="true">
-    <img class="img-medium" gm-icon-size="small" gm-open-size="medium" gm-bg="dark" src="img/picture2.jpg">
-  </div>
+		<img gm-icon-size="20%" gm-open-size="small" gm-bg="dark" src="img/picture1.jpg">
+		<img gm-icon-size="small" gm-open-size="medium" gm-bg="dark" src="img/picture2.jpg">
+		<img gm-icon-size="medium" gm-open-size="large" gm-bg="light" src="img/picture3.jpg">
+		<img gm-icon-size="large" gm-open-size="60%" gm-bg="light" src="img/picture4.jpg">
+	</div>
 ```
   
 ## Tag "img" have 3 another parameters:
