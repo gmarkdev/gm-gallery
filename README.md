@@ -3,16 +3,22 @@
 
 #### Firstly you have to create div:
 
-  <div id="gm-gallery" gm-arrows="true"></div>
+  <pre>
+  <div id="gm-gallery" gm-arrows="true">
+  
+  </div>
+  </pre>
 
 ##### with parameter "gm-arrows". You can set "true" or "false" it's means visibility of arrows to next/prev image.
 
 ##### Next put image in gallery div. 
 ##### Such as:
 
+  <pre>
   <div id="gm-gallery" gm-arrows="true">
     <img class="img-medium" gm-icon-size="small" gm-open-size="medium" gm-bg="dark" src="img/picture2.jpg">
   </div>
+  </pre>
   
 ## Tag "img" have 3 another parameters:
 
