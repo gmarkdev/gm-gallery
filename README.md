@@ -1,9 +1,9 @@
 # gm-gallery
 ##### It's simple html and javascript gallery
 
-<p align="center">
-![alt text](https://i.imgur.com/B4l1wdp.png)
-</p>
+
+	<img src="https://i.imgur.com/B4l1wdp.png" align="center">
+
 
 <p align="center">
 ![alt text](https://i.imgur.com/nsqsk91.png)
