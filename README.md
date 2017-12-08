@@ -13,7 +13,22 @@
 	<img src="https://i.imgur.com/nsqsk91.png">
 </p>
 
-#### Firstly you have to create div:
+#### Firstly you have to import jQuery, gm-gallery.js, gm-gallery.css:
+
+##### in head tag:
+
+```html
+<link rel="stylesheet" type="text/css" href="css/gm-gallery.css">
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+```
+
+##### and before end of body tag  - "</body>"
+
+```html
+<script type="text/javascript" src="js/gm-gallery.js"></script>
+```
+
+Then create div:
 
 ```html
   <div id="gm-gallery" gm-arrows="true">
@@ -23,7 +38,7 @@
 
 ##### with parameter "gm-arrows". You can set "true" or "false" it means visibility of arrows to next/prev image.
 
-##### Next put image in gallery div. 
+##### and then put image in gallery div. 
 ##### Such as:
 
 ```html
