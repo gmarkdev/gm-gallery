@@ -64,7 +64,7 @@ Then create div:
 gm-icon-size="small"
 gm-icon-size="medium"
 gm-icon-size="large"
-or in percentages gm-icon-size="40%"
+or you can use percentages gm-icon-size="40%"
 ```
 
 ### gm-open-size:
@@ -73,7 +73,7 @@ or in percentages gm-icon-size="40%"
 gm-open-size="small"
 gm-open-size="medium"
 gm-open-size="large"
-or in percentages gm-open-size="40%"
+or you can use percentages gm-open-size="40%"
 ```
 
 ### gm-bg
